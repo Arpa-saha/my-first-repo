@@ -1,0 +1,118 @@
+h1{
+	color: #788e36;
+}
+h2{
+	color: #dab7b7;
+}
+img{
+	height: 400px;
+	width: 300px;
+	border-radius: 40px;
+}
+#hold{
+	color: #b75c57;
+}
+
+button{
+	border: inset green;
+	color:  #b75c57;
+
+}
+.nav{
+	margin: 0px;
+	padding: -0px;
+	
+    background-color: teal;
+	text-align: left;
+}
+.nav li{
+	display: inline-block;
+	font-size: 20px;
+	padding: 10px;
+
+}
+body{
+	background-size: 100px;
+	background-color: #eee;
+}
+.lol{
+	height: 10px;
+	width: 20px;
+}
+#pop{
+	color: green;
+	background-color: white;
+	text-align: center;
+}
+.kop{
+	background-color: lime;
+	border-color: green;
+	border-radius: 20px;
+	border: 4px ridge orange;
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	text-align: justify;
+	color:purple;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 60px;
+	padding-left: 60px;
+	display: block;
+
+}
+.king{
+	background-color: green;
+	border-color: green;
+	border-radius: 20px;
+	color: white;
+	border: 4px dashed skyblue;
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	text-align: justify;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 60px;
+	padding-left: 60px;
+	display: block;
+}
+.queen{
+	background-color: lime;
+	border-color: green;
+	border-radius: 20px;
+	border: 4px dotted gray;
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	text-align: justify;
+	color:purple;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 60px;
+	padding-left: 60px;
+	display: block;
+}
+.tel{background-color: green;
+	border-color: green;
+	border-radius: 20px;
+	color: white;
+	border: 4px double pink;
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	text-align: justify;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 60px;
+	padding-left: 60px;
+	display: block;
+}
+.author{
+	color: red;
+
+}
